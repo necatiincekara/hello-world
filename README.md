@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+Necati here, I'm very interested in quantum technologies and machine learning
